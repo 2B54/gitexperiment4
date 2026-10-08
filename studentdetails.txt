@@ -1,0 +1,3 @@
+name;keerthi'
+usn;igc25scs09
+semester;3rd
